@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601853674085",
+    "project_id": "ug-food-c5b30",
+    "storage_bucket": "ug-food-c5b30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601853674085:android:4f9b12ddceaf9535a83c8c",
+        "android_client_info": {
+          "package_name": "com.example.mini_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601853674085-lban9fuchcsdj34sj1jaskb9knumu4ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjOVpDRtJy2MUGjTE95ZhP_A_he6lYdR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601853674085-lban9fuchcsdj34sj1jaskb9knumu4ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
